@@ -2,6 +2,7 @@ body {
 	background-color: white;
 	text-align: center;
 	font-family: helvetica, sans-serif;
+	margin: 0px;
 }
 
 ul {
@@ -33,7 +34,7 @@ li a {
 
 li a:hover {
 	color: green;
-	font-weight: bold;
+	text-decoration: underline;
 }
 
 .readmore {
