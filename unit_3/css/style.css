@@ -1,0 +1,99 @@
+body {
+	background-color: white;
+	text-align: center;
+	font-family: helvetica, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    position: fixed;
+    width: 100%;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-size: 12px;
+    font-weight: thin;
+}
+
+li {
+	display: block;
+	display: inline;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    display: inline;
+}
+
+li a:hover {
+	color: green;
+	font-weight: bold;
+}
+
+.readmore {
+	font-style: italic;
+	color: green;
+	text-decoration: none;
+}
+
+h1 {
+	color: black;
+	font-weight: black;
+	font-size: 36px;
+	font-family: helvetica, sans-serif;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#Header {
+	float: left;
+	margin-top: 60px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+#Second {
+	color: green;
+	font-weight: bold;
+}
+
+.right {
+	float: right;
+	margin-top: 100px;
+	margin-right: 60px;
+	margin-bottom: 60px;
+}
+
+h2 {
+	color: black;
+	font-weight: normal;
+	font-family: helvetica, sans-serif;
+	text-decoration: underline;
+	font-size: 18px;
+	line-height: 24px;
+}
+
+p {
+	color: black
+	font-weight: normal;
+	font-size: 14px;
+	font-family: helvetica, sans-serif;
+	line-height: 20px;
+}
+
+.Important {
+	font-size: 16px;
+	font-weight: medium;
+}
+
+hr {
+	width: 400px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
